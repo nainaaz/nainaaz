@@ -47,12 +47,7 @@ Worked on AI and healthcare-focused research involving:
 * Large Language Models (LLMs)
 * Applied machine learning workflows
 
-### 🌱 Sustainability Research Award Project
-
-Part of the UMass iCons team recognized for:
-**“Biogas Production Potential of Livestock Manure at the UMass Amherst Farm”**
-
-Research focused on sustainable energy systems and environmental impact.
+### 🌱 Sustainability Research Award Project: “Biogas Production Potential of Livestock Manure at the UMass Amherst Farm”
 
 ---
 
@@ -64,13 +59,7 @@ Research focused on sustainable energy systems and environmental impact.
 * Career Developer — Manning CICS
 
 Passionate about building communities that help students grow in tech, leadership, and innovation.
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: [Add Your LinkedIn Here]
-* Email: [Add Your Email Here]
+Email: 265naina@gmail.com
 
 💻 let her ~~cook~~ code
 
